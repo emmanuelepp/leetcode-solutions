@@ -1,2 +1,15 @@
+# Editors
 .vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output (C++ / C# / Go)
 *.exe
+*.out
+*.o
+bin/
+obj/
