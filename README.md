@@ -1,4 +1,4 @@
-# LeetCode Problems
+# LeetCode Solutions
 
 My solutions to [LeetCode](https://leetcode.com/) problems, written in C#, C++ and Go while practicing data structures and algorithms.
 
