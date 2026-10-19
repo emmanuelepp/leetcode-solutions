@@ -2,6 +2,7 @@ package main
 
 //O(N)
 //O(1)
+// Problem No: 1119
 func removeVowels(s string) string {
 	if len(s) == 0 {
 		return ""

@@ -1,5 +1,6 @@
 //O(logn)
 //O(1)
+// Problem No: 2396
 public class Solution
 {
     public bool IsStrictlyPalindromic(int n)

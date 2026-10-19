@@ -1,5 +1,6 @@
 //O(N)
 //O(N)
+// Problem No: 1512
 public class Solution
 {
     public int NumIdenticalPairs(int[] nums)

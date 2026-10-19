@@ -1,5 +1,6 @@
 //O(N+M)
 //O(1)
+// Problem No: 1662
 public class Solution
 {
     public bool ArrayStringsAreEqual(string[] word1, string[] word2)

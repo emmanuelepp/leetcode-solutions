@@ -1,5 +1,6 @@
 //O(n)
 //O(n)
+// Problem No: 1941
 public class Solution
 {
     public bool AreOccurrencesEqual(string s)

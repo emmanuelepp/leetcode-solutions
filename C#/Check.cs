@@ -1,5 +1,6 @@
 //O(n)
 //O(1)
+// Problem No: 1752
 public class Solution
 {
     public bool Check(int[] nums)

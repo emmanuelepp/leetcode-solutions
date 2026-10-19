@@ -1,5 +1,6 @@
 //O(n)
 //O(1)
+// Problem No: 287
 public class Solution
 {
     public int FindDuplicate(int[] nums)

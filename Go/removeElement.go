@@ -2,6 +2,7 @@ package main
 
 //O(N)
 //O(1)
+// Problem No: 27
 func removeElement(nums []int, val int) int {
 
 	if len(nums) == 0 {

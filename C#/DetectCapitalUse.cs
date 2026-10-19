@@ -1,5 +1,6 @@
 // O(N)
 // O(1)
+// Problem No: 520
 public class Solution
 {
     public bool DetectCapitalUse(string word)

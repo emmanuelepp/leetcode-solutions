@@ -1,5 +1,6 @@
 //O(n)
 //O(1)
+// Problem No: 2364
 public class Solution
 {
     public long CountBadPairs(int[] nums)

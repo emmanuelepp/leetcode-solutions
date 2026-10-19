@@ -2,6 +2,7 @@ package main
 
 //O(N)
 //O(1)
+// Problem No: 3065
 func minOperations(nums []int, k int) int {
 
 	if len(nums) == 0 {

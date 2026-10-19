@@ -1,5 +1,6 @@
 //O(nlogn)
 //O(1)
+// Problem No: 2706
 public class Solution
 {
     public int BuyChoco(int[] prices, int money)

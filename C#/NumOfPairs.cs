@@ -1,5 +1,6 @@
 //O(n*m)
 //O(n)
+// Problem No: 2023
 public class Solution
 {
     public int NumOfPairs(string[] nums, string target)

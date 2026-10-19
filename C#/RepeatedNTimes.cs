@@ -1,5 +1,6 @@
 //O(n)
 //O(n)
+// Problem No: 961
 public class Solution
 {
     public int RepeatedNTimes(int[] nums)

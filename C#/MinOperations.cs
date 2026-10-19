@@ -1,5 +1,6 @@
 //O(N)
 //O(N)
+// Problem No: 2870
 public class Solution
 {
     public int MinOperations(int[] nums)

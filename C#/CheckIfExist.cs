@@ -1,5 +1,6 @@
 //O(n)
 //O(1)
+// Problem No: 1346
 public class Solution
 {
     public bool CheckIfExist(int[] arr)

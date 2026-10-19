@@ -1,5 +1,6 @@
 //n*m
 //o(1)
+// Problem No: 3162
 
 public class Solution {
     public int NumberOfPairs(int[] nums1, int[] nums2, int k) {

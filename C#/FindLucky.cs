@@ -1,5 +1,6 @@
 //O(n)
 //O(n)
+// Problem No: 1394
 public class Solution
 {
     public int FindLucky(int[] arr)

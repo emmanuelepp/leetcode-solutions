@@ -1,6 +1,7 @@
 //O(1)
 //O(1)
 //Why? The Sodoku board have a fixed size 9*9, never change is constant. 
+// Problem No: 36
 public class Solution
 {
     public bool IsValidSudoku(char[][] board)
